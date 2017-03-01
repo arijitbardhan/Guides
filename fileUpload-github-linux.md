@@ -7,6 +7,6 @@
     
     (b)	On Terminal, change the directory to the place you want to clone your GitHub repository.
     
-    (c) Execute **git clone <<COPY_URL>>**
+    (c) Execute **git clone `COPY_URL`**
     
     (d)
