@@ -10,4 +10,12 @@
     
     (c) Execute **`git clone COPY_URL`**. Put the URL that you copied.
     
-    (d) 
+    (d) Your repository will be cloned to your local system.
+    
+  3.  Place the file that you want to upload in the cloned repository.
+  
+  4.  Stage the file for commit. **`git add FILE_NAME`**
+  
+  5.  Commit the file that you have staged.**`git commit -m "description"`**
+  
+  6.  Push the changes to GitHub. **`git push origin *your-branch*'**
