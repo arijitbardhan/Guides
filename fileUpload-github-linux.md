@@ -18,4 +18,4 @@
   
   5.  Commit the file that you have staged.**`git commit -m "description"`**
   
-  6.  Push the changes to GitHub. **`git push origin *your-branch*'**
+  6.  Push the changes to GitHub. **`git push origin *your-branch*`**
